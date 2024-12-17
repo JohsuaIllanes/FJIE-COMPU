@@ -1,0 +1,31 @@
+.tarjetas-madre-container {
+  background-color: transparent;  
+  min-height: 100vh; 
+  padding: 20px;
+}
+
+.tarjetas-madre-title {
+  color: #343a40;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.tarjetas-madre-description {
+  color: #6c757d;
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.tarjetas-madre-button {
+  font-size: 1rem;
+  padding: 10px 20px;
+  background-color: #0069d9;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.tarjetas-madre-button:hover {
+  background-color: #0056b3;
+}

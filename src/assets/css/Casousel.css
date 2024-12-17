@@ -1,0 +1,29 @@
+.carousel-item img {
+    width: 100%;
+    height: 100vh; 
+    object-fit: cover;
+  }
+  
+  .carousel {
+    position: relative;
+    z-index: 1; 
+    background-color: transparent; 
+  }
+  
+  .carousel-indicators {
+    bottom: 20px;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    filter: invert(1); 
+  }
+  .carousel-item img {
+    width: 100%; 
+    height: 400px; 
+    object-fit: cover; 
+  }
+  .carousel-container {
+    margin-top: 500px; 
+  }
+      

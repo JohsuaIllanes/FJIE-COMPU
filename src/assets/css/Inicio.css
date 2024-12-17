@@ -1,0 +1,26 @@
+.inicio-container {
+  padding: 50px 0;
+}
+
+.carousel-inner img {
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.carousel-caption {
+  font-size: 1.2em;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+}
+
+.inicio-title {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.inicio-description {
+  font-size: 1.2em;
+  color: #a5d8b4;
+  margin-bottom: 30px;
+}
